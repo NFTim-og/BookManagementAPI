@@ -1,0 +1,26 @@
+{
+    "createdAt": "2024-01-01T09:00:00Z",
+    "updatedAt": "2024-11-01T09:00:00Z",
+    "books": [
+        {
+            "id": "d1f7ee82-f42c-4a60-b557-5c12e7a1a01e",
+            "details": {
+                "title": "The Great Gatsby",
+                "author": "F. Scott Fitzgerald",
+                "publishedYear": 1925,
+                "genres": ["Classic", "Fiction"],
+                "summary": "A story about the American dream and the disillusionment of the Jazz Age."
+            }
+        },
+        {
+            "id": "b27e3087-43ee-4b0a-910b-bc1da3a1c74e",
+            "details": {
+                "title": "1984",
+                "author": "George Orwell",
+                "publishedYear": 1949,
+                "genres": ["Dystopian", "Political Fiction"],
+                "summary": "A dystopian novel set in a totalitarian regime under constant surveillance."
+            }
+        }
+    ]
+}

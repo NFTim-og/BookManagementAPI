@@ -1,0 +1,22 @@
+{
+    "createdAt": "2024-01-01T09:00:00Z",
+    "updatedAt": "2024-11-01T08:30:00Z",
+    "bookstores": [
+        {
+            "id": "2f1e9f8b-a1b1-44c3-8e93-53c8e4c2b3a5",
+            "name": "The Book Nook",
+            "location": "101 Book St, Storytown",
+            "contact": {
+                "phone": "555-0101",
+                "email": "info@thebooknook.com"
+            },
+            "inventory": [
+                {
+                    "bookId": "d1f7ee82-f42c-4a60-b557-5c12e7a1a01e",
+                    "quantity": 25,
+                    "price": 10.99
+                }
+            ]
+        }
+    ]
+}
